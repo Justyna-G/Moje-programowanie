@@ -3,6 +3,6 @@
 strona internetowa
 ## cel: 
 wykorzystanie poznawanych technologii w praktyce
-##technologie:
+## technologie:
 html
 css
